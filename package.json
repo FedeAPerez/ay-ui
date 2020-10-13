@@ -1,11 +1,23 @@
 {
-    "name": "ay-ui",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-    "keywords": [],
-    "author": "Federico Pérez",
-    "license": "ISC"
-  }
-  
+  "name": "ay-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@fedeaperez"
+  },
+  "keywords": [],
+  "author": "Federico Pérez",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedeAPerez/ay-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FedeAPerez/ay-ui/issues"
+  },
+  "homepage": "https://github.com/FedeAPerez/ay-ui#readme"
+}
