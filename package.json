@@ -1,9 +1,9 @@
 {
   "name": "@fedeaperez/ay-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A11Y Based UI Lib",
   "keywords": [],
-  "author": "Federico Pérez",  
+  "author": "Federico Pérez",
   "publishConfig": {
     "access": "public"
   },
