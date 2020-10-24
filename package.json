@@ -2,7 +2,6 @@
   "name": "@fedeaperez/ay-ui",
   "version": "1.0.1",
   "description": "A11Y Based UI Lib",
-  "main": "index.js",
   "keywords": [],
   "author": "Federico Pérez",
   "license": "ISC",
