@@ -1,11 +1,8 @@
 {
   "name": "@fedeaperez/ay-ui",
   "version": "1.0.0",
-  "description": "",
+  "description": "A11Y Based UI Lib",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "keywords": [],
   "author": "Federico Pérez",
   "license": "ISC",
