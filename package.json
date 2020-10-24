@@ -3,7 +3,10 @@
   "version": "1.0.1",
   "description": "A11Y Based UI Lib",
   "keywords": [],
-  "author": "Federico Pérez",
+  "author": "Federico Pérez",  
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
